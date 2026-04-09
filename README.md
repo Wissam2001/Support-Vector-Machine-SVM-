@@ -35,7 +35,6 @@ Note: The SVM algorithm itself is implemented entirely from scratch without usin
 - Regularization (λ) controls the trade-off between margin width and misclassification
 - Learning rate selection is critical: too high causes divergence, too low causes slow convergence
 - Feature scaling is essential for SVM performance (though our synthetic data was already scaled)
-- Convergence criteria: number of iterations vs. change in weights
 
  # License 📝
   This project is for educational purposes as part of a Master's lab assignment.
